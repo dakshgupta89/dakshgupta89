@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Daksh Gupta  
 
-<!--
-**dakshgupta89/dakshgupta89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Web Developer** | Passionate about building modern, responsive, and interactive web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- 🎓 3rd-year student exploring the world of **Web Development**  
+- 🌐 Learning **HTML, CSS, JavaScript, React, Node.js**  
+- 🚀 Currently building mini-projects to sharpen my skills  
+- 🤝 Open to collaborating on **frontend & backend projects**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js (learning)  
+- **Tools:** Git, GitHub, VS Code  
+- **Other Interests:** Open-source contribution, UI/UX design  
+
+---
+
+## 📌 Featured Projects  
+- 🔑 [Password Generator](https://github.com/dakshgupta89/password-generator/blob/main/Password-generator.html) – A simple app to generate secure passwords
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn] www.linkedin.com/in/daksh-gupta-713753332
+
+- 📧 Email: *gdaksh168@gmail.co*  
+
+---
+⭐️ *"Always learning, always building!"*
