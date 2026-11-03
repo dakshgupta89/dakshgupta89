@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daksh Gupta</h1>
 <h3 align="center">💻 Aspiring Web Developer | Passionate about building modern, responsive, and interactive web applications.</h3>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2bXUyZGs0b3NsaHAxeTljbHhsY2J4bmhsbThrcGJ2bGRxYXM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/977YesTjNfQC7vQiph/giphy.gif"  />
+<!-- <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2bXUyZGs0b3NsaHAxeTljbHhsY2J4bmhsbThrcGJ2bGRxYXM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/977YesTjNfQC7vQiph/giphy.gif"  /> -->
 
 
 - 🌱 I’m currently learning **Web Development**
